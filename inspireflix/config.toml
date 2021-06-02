@@ -1,4 +1,4 @@
 baseURL = "http://infx.inspireflix.com/"
 languageCode = "en-us"
 title = "INSPIREFLIX"
-theme = "compose"
+theme = "m10c"
