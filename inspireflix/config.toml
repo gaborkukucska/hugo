@@ -1,4 +1,4 @@
-baseURL = "https://infx.inspireflix.com/"
+baseURL = "/"
 languageCode = "en-us"
 title = "INSPIREFLIX"
 themesDir = "../.."
