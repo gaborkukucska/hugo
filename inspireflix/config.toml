@@ -23,8 +23,8 @@ paginate = 8
     weight = 3
 
 [params]
-  author = "John Doe"
-  description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  author = "INSPIREFLIX"
+  description = "Films of a Million +One"
   menu_item_separator = " - "
   [[params.social]]
     icon = "github"
